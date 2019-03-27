@@ -1,6 +1,7 @@
 # holamundo
 
 > A Vue.js project
+#Para correrlo se debe tener instalado Node.js
 
 ## Build Setup
 
